@@ -1,1 +1,1 @@
-# Two_Bus_System_GSF
+# Two-Bus-System-GSF
